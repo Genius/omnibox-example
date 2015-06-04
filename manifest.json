@@ -1,0 +1,17 @@
+{
+  "name": "Genius Search",
+  "version": "0.0.1",
+  "manifest_version": 2,
+
+  "omnibox": {
+    "keyword": "genius"
+  },
+
+  "icons": {
+    "16": "icon16.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
